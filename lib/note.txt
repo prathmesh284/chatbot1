@@ -1,0 +1,2 @@
+ChatGPT api is not free.
+Deepseek Api:sk-4fa49d9545404d1ea7e58b4cc48f0bf9;
